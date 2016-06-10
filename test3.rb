@@ -1,0 +1,1 @@
+this is practical session to check removing of file history
